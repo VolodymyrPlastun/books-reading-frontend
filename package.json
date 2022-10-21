@@ -1,5 +1,6 @@
 {
   "name": "books-reading-frontend",
+  "homepage": "https://VolodymyrPlastun.github.io/books-reading-frontend/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
